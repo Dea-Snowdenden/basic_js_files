@@ -10,4 +10,4 @@ This was a practice project in JS
 
 * JS functions to show how clocks would work
 
-![alt-text]("clock.png")
+![alt-text](clock.png)
