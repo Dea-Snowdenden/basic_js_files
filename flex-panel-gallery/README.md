@@ -5,7 +5,7 @@
 
 TUTORIAL STEPS:
 1. no change
-[alt-text](images/first.png)
+![alt-text](images/first.png)
 
 2. add flex:    
 ```
@@ -16,7 +16,6 @@ TUTORIAL STEPS:
     }
 ```
 ![alt-text](images/second.png)
-
 
 3. equal distribution of panels, add
 ```
@@ -38,7 +37,7 @@ TUTORIAL STEPS:
 ````
 ![alt-text](images/fourth.png)
 
-5. flex items are now show just the middle text
+5. flex items are now showing the middle text
 ```
     .panel > *:first-child { transform: translateY(-100%); }
     .panel.open-active > *:first-child { transform: translateY(0); }
@@ -84,10 +83,10 @@ d. Then it will toggle open active:
 ```
     function toggleActive(e) {
         console.log(e.propertyName);
-        if(e.propertyName.icnludes('flex')){
+        if(e.propertyName.includes('flex')){
             this.classList.toggle('open-active');
         }
     }
 
 ```
-
+![alt-text](images/seventh.png)
