@@ -23,7 +23,7 @@ function findMatches(wordToMatch, cities) {
 * where "g" is global and "i" for insensitive means its not case-sensitive
 This will look for the array that was typed in 
 ```
-    const regex = new RezExp(wordToMatch, 'gi')
+    const regex = new RegExp(wordToMatch, 'gi')
 ```
 
 * for smaller filter
