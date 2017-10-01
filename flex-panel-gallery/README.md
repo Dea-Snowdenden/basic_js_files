@@ -91,4 +91,4 @@ d. Then it will toggle open active:
 ```
 ![alt-text](images/seventh.png)
 
-![alt-text](images/panel.gif)
+![alt-text](images/new.gif)
