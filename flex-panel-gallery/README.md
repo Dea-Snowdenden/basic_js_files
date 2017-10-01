@@ -1,7 +1,7 @@
 # FLEX-PANEL GALLERY IN JS TUTORIAL
 
 # FEATURES
-* JS with EventListener
+* Initially, all panels are of the same size. Once the middle text is clicked, it would pop-out a bigger panel and it would display the whole text.
 
 TUTORIAL STEPS:
 1. no change
@@ -90,3 +90,5 @@ d. Then it will toggle open active:
 
 ```
 ![alt-text](images/seventh.png)
+
+![alt-text](images/flex-panel-gallery.mp4)
