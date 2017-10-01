@@ -3,6 +3,8 @@
 # FEATURES
 * Initially, all panels are of the same size. Once the middle text is clicked, it would pop-out a bigger panel and it would display the whole text.
 
+![alt-text](images/new.gif)
+
 TUTORIAL STEPS:
 1. no change
 ![alt-text](images/first.png)
@@ -91,4 +93,3 @@ d. Then it will toggle open active:
 ```
 ![alt-text](images/seventh.png)
 
-![alt-text](images/new.gif)

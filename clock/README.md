@@ -4,6 +4,8 @@
 
 This was a practice project in JS
 
+![alt-text](clock.gif)
+
 ## FEATURES
 
 * css manipulation for placement of clock hands
