@@ -1,0 +1,1 @@
+# simple javascript practice using console
