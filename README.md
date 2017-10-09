@@ -13,11 +13,14 @@ As a code newbie, I have to type along and experiment since I only have a basic 
 
 ## SAMPLES
 * Clock
+
 ![alt-text](images/clock.gif)
 
 * CSS Variables
+
 ![alt-text](images/final.gif)
 
 * Flex-panel gallery
+
 ![alt-text](images/new.gif)
 
