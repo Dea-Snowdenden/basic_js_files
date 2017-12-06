@@ -1,10 +1,3 @@
-# Simple JS function to filter the names
-
-* link: http://dealorenzo-filterjs.surge.sh/
-
-![alt-text](images/sample.png)
-
-```
 // Get input element
 let filterInput = document.getElementById('filterInput');
 // add eventlistener
@@ -34,6 +27,3 @@ function filterNames(){
     }
     }
 }
-```
-
-source: https://www.youtube.com/watch?v=G1eW3Oi6uoc
