@@ -1,4 +1,4 @@
-# Simple JS function to filter the names
+# Simple JS function to filter the names using vanilla-js
 
 * link: http://dealorenzo-filterjs.surge.sh/
 
