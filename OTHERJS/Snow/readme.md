@@ -1,4 +1,4 @@
-# Falling snow animation ins JS
+# Falling snow animation in JS
 
 ### Sample image
 ![alt-text](images/sample.png)
