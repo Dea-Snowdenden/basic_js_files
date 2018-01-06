@@ -1,7 +1,7 @@
 let canvas = document.getElementById('confetti');
 
-canvas.width = 1500;
-canvas.height = 800;
+canvas.width = 1880;
+canvas.height = 900;
 
 let ctx = canvas.getContext('2d');
 let pieces = [];
